@@ -11,7 +11,7 @@ addh([13, 34], 30, [14, 4]).
 addh([10, 14], 25, [14, 4]).
 affiche([5, 37]).
 
-exo 02
+exo 02:
 
 lig(arret1, arret2, Ligne).
 ligtot(arret1, arret2, Ligne, DepartureTime).
